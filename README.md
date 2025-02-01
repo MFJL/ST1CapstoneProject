@@ -3,27 +3,6 @@
 ## **📌 Project Overview**
 This project aims to predict the risk of lung cancer using machine learning techniques. We analyzed a lung cancer dataset, performed **Exploratory Data Analysis (EDA)**, built multiple classification models, and deployed the best-performing model as a **Streamlit web application**. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer/data).
 
-## **📂 Repository Structure**
-```
-📂 ST1CapstoneProject
-   ├── 📂 notebooks/                # Jupyter Notebooks
-   │    ├── EDA.ipynb               # Exploratory Data Analysis (EDA)
-   │    ├── PDA.ipynb               # Predictive Data Analytics (PDA)
-   │
-   ├── 📂 data/                     # Raw and processed datasets
-   │    ├── surveylungcancer.csv    # Dataset used in the project
-   │
-   ├── 📂 reports/                  # Project documentation
-   │    ├── ST_Capstone_Project_Report_U3241507.pdf  # Final report
-   │
-   ├── 📂 src/                      # Python scripts for ML pipeline
-   │    ├── Model.py                # Model training & testing script
-   │    ├── Streamlit.py            # Web app deployment using Streamlit
-   │
-   ├── README.md                    # Project description
-   ├── requirements.txt              # Dependencies
-   ├── LICENSE                       # License (optional)
-```
 
 ## **🛠 Installation & Setup**
 ### **🔹 Prerequisites**
